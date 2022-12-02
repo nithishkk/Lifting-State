@@ -3,7 +3,7 @@ import "./style.css";
 import Form from './Form'
 
 export default function App() {
-  const getData=(name)=>{
+  const getData=( name)=>{
    console.log("thish is nithish" , name)
   }
   return (
@@ -12,3 +12,4 @@ export default function App() {
     </div>
   );
 }
+   
